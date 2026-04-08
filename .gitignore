@@ -1,0 +1,23 @@
+# .gitignore for SWI-Prolog
+
+# Compiled SWI-Prolog files
+*.qlf
+
+# History files
+.swipl-dir-history
+
+# Logs
+*.log
+
+# Caches
+*.tmp
+*~
+*.bak
+
+# Temporary or system files
+.DS_Store
+Thumbs.db
+
+# Any IDE specific files (VSCode, IntelliJ, etc)
+.vscode/
+.idea/
