@@ -86,6 +86,7 @@ You can download it from [swi-prolog.org](https://www.swi-prolog.org/download/st
 This repository has been proudly architected and maintained by:
 *   **Andrea Pascual Aguilera**
 *   **Sergio Alonso Zarcero**
+*   **Álvaro Eugenio Fernández**
 
 ---
 
